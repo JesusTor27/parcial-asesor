@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nombre": "Python desde cero",
+        "descripcion": "Curso introductorio para aprender programación con Python.",
+        "modalidad": "Online",
+        "duracion": "40 horas",
+        "costo": 180000,
+        "requisitos": "No requiere conocimientos previos"
+    },
+    {
+        "id": 2,
+        "nombre": "Desarrollo Web con HTML, CSS y JavaScript",
+        "descripcion": "Curso para aprender los fundamentos del desarrollo web.",
+        "modalidad": "Online",
+        "duracion": "50 horas",
+        "costo": 220000,
+        "requisitos": "Conocimientos básicos de informática"
+    },
+    {
+        "id": 3,
+        "nombre": "Bases de Datos con MySQL",
+        "descripcion": "Curso para aprender a diseñar bases de datos y realizar consultas SQL.",
+        "modalidad": "Online",
+        "duracion": "35 horas",
+        "costo": 160000,
+        "requisitos": "Conocimientos básicos de programación"
+    },
+    {
+        "id": 4,
+        "nombre": "Redes de Computadores",
+        "descripcion": "Curso sobre fundamentos de redes, direccionamiento IP, VLAN, routing y switching.",
+        "modalidad": "Online",
+        "duracion": "45 horas",
+        "costo": 200000,
+        "requisitos": "Conocimientos básicos de informática"
+    },
+    {
+        "id": 5,
+        "nombre": "Flutter y Dart",
+        "descripcion": "Curso para desarrollar aplicaciones móviles multiplataforma utilizando Flutter y Dart.",
+        "modalidad": "Online",
+        "duracion": "60 horas",
+        "costo": 280000,
+        "requisitos": "Conocimientos básicos de programación"
+    },
+    {
+        "id": 6,
+        "nombre": "Inteligencia Artificial con Python",
+        "descripcion": "Curso introductorio al desarrollo de aplicaciones de inteligencia artificial utilizando Python.",
+        "modalidad": "Online",
+        "duracion": "55 horas",
+        "costo": 300000,
+        "requisitos": "Conocimientos de Python"
+    }
+]
